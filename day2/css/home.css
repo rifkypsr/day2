@@ -1,0 +1,22 @@
+body {
+    background-color: #e3e3e3;
+    font-family: Arial, sans-serif;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.profile-image img {
+    border-radius: 15px;
+    width: 100%;
+    height: auto;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+
+.image-container {
+    text-align: center;
+    background-color: #f8f4f4;
+    box-shadow: 0 10px 10px 0 rgba(114, 161, 223, 0.6), 0 6px 20px 0 rgba(255, 182, 193, 0.6); /* Shadow box dengan warna merah jambu */
+}
+
